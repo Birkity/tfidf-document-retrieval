@@ -61,13 +61,13 @@ Welcome to the **TF-IDF Document Retrieval System**! This project is a Python-ba
 ## 📊 Visualizations
 
 ### Word Cloud
-![Word Cloud](https://via.placeholder.com/800x400.png?text=Word+Cloud+Example)
+![Word Cloud](images/word_count.png)
 
 ### Term Frequency Heatmap
-![Heatmap](https://via.placeholder.com/800x400.png?text=Heatmap+Example)
+![Heatmap](images/term_frequency_heatmap.png)
 
 ### TF-IDF Score Distribution
-![Histogram](https://via.placeholder.com/800x400.png?text=Histogram+Example)
+![Histogram](images/IDF_score.png)
 
 ---
 
