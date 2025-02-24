@@ -60,6 +60,9 @@ Welcome to the **TF-IDF Document Retrieval System**! This project is a Python-ba
 
 ## 📊 Visualizations
 
+### UI 
+![UI](images/UI.png)
+
 ### Word Cloud
 ![Word Cloud](images/word_count.png)
 
@@ -114,7 +117,7 @@ For questions or feedback, feel free to reach out:
 
 - **Birkity Yishak**  
 - **Email**: birkity.yishak.m@gmail.com  
-- **GitHub**: [your-username](https://github.com/Birkity)    
+- **GitHub**: [Birkity](https://github.com/Birkity)    
 
 ---
 
